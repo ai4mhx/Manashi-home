@@ -1,0 +1,421 @@
+[
+    {
+        "id": "adhikary2026cotherapist",
+        "title": "coTherapist: A Behavior-Aligned Small Language Model to Support Mental Healthcare Experts",
+        "authors": [
+            "Prottay Kumar Adhikary",
+            "Reena Rawat",
+            "Tanmoy Chakraborty"
+        ],
+        "venue": "The Web Conference (WWW - Web4Good)",
+        "year": "2026",
+        "type": "conference",
+        "abstract": "Access to mental healthcare is increasingly strained by workforce shortages and rising demand, motivating the development of intelligent systems that can support mental healthcare experts. We introduce coTherapist, a unified framework utilizing a small language model to emulate core therapeutic competencies through domain-specific fine-tuning, retrieval augmentation, and agentic reasoning. Evaluation on clinical queries demonstrates that coTherapist generates more relevant and clinically grounded responses than contemporary baselines. Using our novel T-BARS rubric and psychometric profiling, we confirm coTherapist exhibits high empathy and therapist-consistent personality traits. Furthermore, human evaluation by domain experts validates that coTherapist delivers accurate, trustworthy, and safe responses. coTherapist was deployed and tested by clinical experts. Collectively, these findings demonstrate that small models can be engineered to exhibit expert-like behavior, offering a scalable pathway for digital mental health tools.",
+        "tldr": "coTherapist is a small language model-based system designed to support mental healthcare experts by producing clinically grounded and empathetic responses via fine-tuning, retrieval augmentation, and reasoning.",
+        "pdfLink": "https://arxiv.org/pdf/2601.10246",
+        "audiopath": "/audios/coTherapist.mp3",
+        "tags": [
+            "mental health AI",
+            "small language models",
+            "therapeutic modelling",
+            "WWW 2026"
+        ],
+        "bibtex": "@inproceedings{adhikary2026cotherapist,\n  title={coTherapist: A Behavior-Aligned Small Language Model to Support Mental Healthcare Experts},\n  author={Adhikary, Prottay Kumar and Rawat, Reena and Chakraborty, Tanmoy},\n  booktitle={The Web Conference (WWW - Web4Good) 2026},\n  year={2026},\n  url={https://arxiv.org/abs/2601.10246}\n}"
+    },
+    {
+        "id": "mandal2025datasetsurvey",
+        "title": "A Comprehensive Review of Datasets for Clinical Mental Health AI Systems",
+        "authors": [
+            "Aishik Mandal",
+            "Prottay Kumar Adhikary",
+            "Hiba Arnaout",
+            "Iryna Gurevych",
+            "Tanmoy Chakraborty"
+        ],
+        "venue": "arXiv preprint",
+        "year": "2025",
+        "type": "preprint",
+        "abstract": "Despite growing interest in data curation for training clinical AI assistants, existing datasets for clinical mental health remain scattered, under-documented and often inaccessible, hindering reproducibility, comparability, and model generalizability. This paper presents the first comprehensive survey of clinical mental health datasets, categorizing them by disorder types, modalities (text, speech, physiological), tasks (diagnosis, symptom estimation, intervention generation), accessibility, and sociocultural context. We also review synthetic datasets and highlight critical gaps such as lack of longitudinal data, limited cultural representation, inconsistent collection standards, and modality limitations. We conclude with recommendations for future dataset curation to facilitate robust, ethical, and equitable mental health AI development.",
+        "tldr": "This paper surveys clinical mental health datasets important for AI research, classifying them by type and identifying key gaps in coverage, accessibility, and representation.",
+        "pdfLink": "https://arxiv.org/pdf/2508.09809",
+        "audiopath": "",
+        "tags": [
+            "datasets",
+            "clinical mental health",
+            "survey",
+            "AI"
+        ],
+        "bibtex": "@article{mandal2025datasetsurvey,\n  title={A Comprehensive Review of Datasets for Clinical Mental Health AI Systems},\n  author={Mandal, Aishik and Adhikary, Prottay Kumar and Arnaout, Hiba and Gurevych, Iryna and Chakraborty, Tanmoy},\n  journal={arXiv preprint arXiv:2508.09809},\n  year={2025},\n  url={https://arxiv.org/abs/2508.09809}\n}"
+    },
+    {
+        "id": "dave2025hcwmentalhealth",
+        "title": "Enhancing Healthcare Worker Mental Health via Artificial Intelligence-Driven Work Process Improvements: A Scoping Review",
+        "authors": [
+            "Bhavyaa Dave",
+            "Priya Martin",
+            "Sharel Singh David",
+            "Saravana Kumar",
+            "Tanmoy Chakraborty"
+        ],
+        "venue": "International Journal of Medical Informatics",
+        "year": "2025",
+        "type": "journal",
+        "abstract": "Healthcare workers (HCWs) experience high rates of mental health issues, including burnout, stress, and cognitive overload, often exacerbated by administrative tasks and inefficient workflows. This scoping review maps current literature on how artificial intelligence (AI) can address these challenges by optimizing work processes, reducing administrative burdens, and enhancing job satisfaction and well-being among HCWs. Twenty studies were reviewed, including empirical research and literature syntheses, highlighting AI applications such as Natural Language Processing (NLP), AI-integrated electronic health records (EHR), machine learning, clinical decision support, and generative AI tools. Despite evidence of benefits for workflow efficiency and reduced burnout, challenges related to data integration, algorithmic bias, and trust remain. Future work should evaluate long-term AI impacts and approaches for mitigating unintended consequences.",
+        "tldr": "A scoping review showing AI’s potential to improve healthcare worker mental health by streamlining workflows and reducing burnout, while identifying challenges in integration and trust.",
+        "pdfLink": "",
+        "audiopath": "",
+        "tags": [
+            "AI for healthcare workers",
+            "mental health",
+            "workflow optimization",
+            "scoping review"
+        ],
+        "bibtex": "@article{dave2025hcwmentalhealth,\n  title={Enhancing Healthcare Worker Mental Health via Artificial Intelligence-Driven Work Process Improvements: A Scoping Review},\n  author={Dave, Bhavyaa and Martin, Priya and Singh David, Sharel and Kumar, Saravana and Chakraborty, Tanmoy},\n  journal={International Journal of Medical Informatics},\n  year={2025}\n}"
+    },
+    {
+        "id": "mandal2025privacyaware",
+        "title": "Towards Privacy-aware Mental Health AI Models: Advances, Challenges, and Opportunities",
+        "authors": [
+            "Aishik Mandal",
+            "Tanmoy Chakraborty",
+            "Iryna Gurevych"
+        ],
+        "venue": "Nature Computational Science",
+        "year": "2025",
+        "type": "journal",
+        "abstract": "Recent advances in AI, particularly in natural language processing and multimodal methods, hold great promise for recognizing and addressing mental health conditions. However, privacy concerns, including risks of sensitive data leakage from datasets and models, remain critical barriers to clinical deployment. This paper presents a comprehensive study of privacy challenges associated with developing and deploying AI models for mental health, prescribing potential solutions such as data anonymization, synthetic data generation, and privacy-preserving model training. An evaluation framework for privacy–utility trade-offs is discussed to advance reliable, privacy-aware AI tools that support clinical decision-making and improve mental health outcomes.",
+        "tldr": "This paper identifies and addresses privacy risks in mental health AI systems, proposing methods such as anonymization and privacy-preserving training to enable reliable, privacy-aware tools.",
+        "pdfLink": "https://doi.org/10.1038/s43588-025-00875-w",
+        "audiopath": "",
+        "tags": [
+            "mental health AI",
+            "privacy-aware models",
+            "multimodal AI",
+            "data privacy"
+        ],
+        "bibtex": "@article{mandal2025privacyaware,\n  title={Towards Privacy-aware Mental Health AI Models: Advances, Challenges, and Opportunities},\n  author={Mandal, Aishik and Chakraborty, Tanmoy and Gurevych, Iryna},\n  journal={Nature Computational Science},\n  year={2025},\n  volume={5},\n  number={10},\n  pages={863--874},\n  doi={10.1038/s43588-025-00875-w}\n}"
+    },
+    {
+        "id": "adhikary2025psychotherapybenchmark",
+        "title": "Towards Richer AI-Assisted Psychotherapy Note-Making and Performance Benchmarking",
+        "authors": [
+            "Prottay Kumar Adhikary",
+            "Sahajpreet Singh",
+            "Suruchi Singh",
+            "Panna Sharma",
+            "Pankhuri Soni",
+            "Rashmi Choudhary",
+            "Charu Saxena",
+            "Prachi Chauhan",
+            "Swati Kedia Gupta",
+            "Koushik Sinha Deb",
+            "Salam Michael Singh",
+            "Tanmoy Chakraborty"
+        ],
+        "venue": "medRxiv preprint",
+        "year": "2025",
+        "type": "preprint",
+        "abstract": "Psychotherapy note-making is crucial for effective patient care, yet traditional note formats often fail to capture the nuanced complexities of sessions. This work presents iCARE, a comprehensive AI-assisted psychotherapy documentation framework grounded in 17 clinically relevant aspects developed with mental health professionals. The authors introduce PATH, a novel dataset of annotated therapy sessions, and benchmark 11 large language models (LLMs) across multiple aspects of psychotherapy note-making. Analysis shows that while closed-source models like Gemini Pro and GPT4o-mini perform well on select metrics, all models struggle with temporal reasoning and deeper therapeutic interpretations. Findings highlight the potential utility of LLMs in documentation support while underscoring limitations that require clinical expertise and further development.",
+        "tldr": "This preprint introduces a structured AI-assisted framework (iCARE) and dataset (PATH) for psychotherapy note-making and benchmarks multiple LLMs on this task, finding useful but limited performance overall.",
+        "pdfLink": "https://www.medrxiv.org/content/10.1101/2025.06.25.25330252v1.full.pdf",
+        "audiopath": "",
+        "tags": [
+            "mental health AI",
+            "psychotherapy documentation",
+            "benchmarking",
+            "large language models"
+        ],
+        "bibtex": "@article{adhikary2025psychotherapybenchmark,\n  title={Towards Richer AI-Assisted Psychotherapy Note-Making and Performance Benchmarking},\n  author={Adhikary, Prottay Kumar and Singh, Sahajpreet and Singh, Suruchi and Sharma, Panna and Soni, Pankhuri and Choudhary, Rashmi and Saxena, Charu and Chauhan, Prachi and Gupta, Swati Kedia and Sinha Deb, Koushik and Singh, Salam Michael and Chakraborty, Tanmoy},\n  journal={medRxiv},\n  year={2025},\n  doi={10.1101/2025.06.25.25330252},\n  url={https://www.medrxiv.org/content/10.1101/2025.06.25.25330252v1}\n}"
+    },
+    {
+        "id": "sethi2025digitalpersonaldataact",
+        "title": "The Digital Personal Data Protection Act 2023: Implications for Mental Healthcare Practice in India",
+        "authors": [
+            "Manik Inder Singh Sethi",
+            "Narayana Manjunatha",
+            "Naveen Kumar Channaveerachari",
+            "Tanmoy Chakraborty",
+            "Suresh Bada Math",
+            "Chittaranjan Andrade"
+        ],
+        "venue": "Indian Journal of Psychological Medicine",
+        "year": "2025",
+        "type": "journal",
+        "abstract": "The Digital Personal Data Protection Act, 2023 (DPDPA) represents India’s first comprehensive data protection legislation, and this paper examines its implications for mental healthcare practice in India. The authors discuss the legal foundations of the Act, the regulatory frameworks it introduces for acquiring, storing, retrieving, and handling digital personal data, and how these provisions intersect with the high sensitivity of mental health information. The paper highlights challenges such as obtaining explicit consent, balancing compliance with clinical demands, and the need to align with international data privacy frameworks like the GDPR. Through this lens, it outlines the key compliance requirements that mental healthcare practitioners need to navigate under the new legal regime.",
+        "tldr": "This article analyzes how India’s Digital Personal Data Protection Act, 2023 affects the collection, processing, and management of digital mental health data, focusing on legal requirements, consent, and challenges for clinical practice.",
+        "pdfLink": "https://journals.sagepub.com/doi/10.1177/02537176251370651",
+        "audiopath": "",
+        "tags": [
+            "data protection law",
+            "mental healthcare",
+            "India",
+            "privacy policy",
+            "health informatics"
+        ],
+        "bibtex": "@article{sethi2025digitalpersonaldataact,\n  title={The Digital Personal Data Protection Act 2023: Implications for Mental Healthcare Practice in India},\n  author={Sethi, Manik Inder Singh and Manjunatha, Narayana and Channaveerachari, Naveen Kumar and Chakraborty, Tanmoy and Math, Suresh Bada and Andrade, Chittaranjan},\n  journal={Indian Journal of Psychological Medicine},\n  year={2025},\n  doi={10.1177/02537176251370651},\n  url={https://journals.sagepub.com/doi/10.1177/02537176251370651}\n}"
+    },
+    {
+        "id": "srivastava2025criticalbehavioraltraits",
+        "title": "Critical Behavioral Traits Foster Peer Engagement in Online Mental Health Communities",
+        "authors": [
+            "Aseem Srivastava",
+            "Tanya Gupta",
+            "Alison Cerezo",
+            "Sarah Peregrine (Grin) Lord",
+            "Md Shad Akhtar",
+            "Tanmoy Chakraborty"
+        ],
+        "venue": "PLOS ONE",
+        "year": "2025",
+        "type": "journal",
+        "abstract": "Online Mental Health Communities (OMHCs), such as Reddit, have become important venues for peer support. However, the factors that drive meaningful peer engagement in these communities are not well understood. This study introduces BeCOPE, a behavior-encoded peer counseling dataset with over 10,118 posts and 58,279 comments from 21 mental health-specific subreddits, annotated with fine-grained behavior labels (intent, criticism, readability) and emotion. The authors examine how different behavioral traits, including the clarity of problem articulation and expressed need for help, relate to the likelihood of receiving supportive responses. Results indicate that posts with explicit help-seeking intent and high readability significantly increase peer engagement, highlighting behavioral markers that contribute to supportive interactions in OMHCs.",
+        "tldr": "This paper analyzes how specific behavioral traits in online mental health posts, such as clear help-seeking intent and readability, are linked to higher peer engagement and support.",
+        "pdfLink": "https://doi.org/10.1371/journal.pone.0316906",
+        "audiopath": "",
+        "tags": [
+            "online mental health communities",
+            "peer engagement",
+            "behavioral analysis",
+            "social media",
+            "OMHC"
+        ],
+        "bibtex": "@article{srivastava2025criticalbehavioraltraits,\n  title={Critical Behavioral Traits Foster Peer Engagement in Online Mental Health Communities},\n  author={Srivastava, Aseem and Gupta, Tanya and Cerezo, Alison and Lord, Sarah Peregrine and Akhtar, Md Shad and Chakraborty, Tanmoy},\n  journal={PLOS ONE},\n  year={2025},\n  volume={20},\n  number={1},\n  pages={e0316906},\n  doi={10.1371/journal.pone.0316906},\n  url={https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0316906}\n}"
+    },
+    {
+        "id": "adhikary2025menstllama",
+        "title": "MenstLLaMA: A Specialized Large Language Model for Menstrual Health Education in India",
+        "authors": [
+            "Prottay Kumar Adhikary",
+            "Isha Motiyani",
+            "Gayatri Oke",
+            "Maithili Joshi",
+            "Kanupriya Pathak",
+            "Salam Michael Singh",
+            "Tanmoy Chakraborty"
+        ],
+        "venue": "Journal of Medical Internet Research",
+        "year": "2025",
+        "type": "journal",
+        "abstract": "The quality and accessibility of menstrual health education (MHE) remain inadequate in low- and middle-income countries, including India, due to challenges such as stigma, limited resources, and gender inequality. To address these issues, the authors developed MenstLLaMA, a specialized large language model tailored for culturally sensitive and accurate menstrual health education. The model was trained on a novel domain-specific dataset (MENST) comprising over 23,820 question–answer pairs curated from medical websites, government portals, and health education resources. MenstLLaMA was evaluated against state-of-the-art general-purpose language models using automated metrics, clinical expert evaluations, and user studies, showing superior performance in BLEU and BERTScore, as well as strong ratings for empathy, accuracy, and cultural relevance. The study highlights MenstLLaMA’s potential to transform scalable menstrual health education in India.",
+        "tldr": "MenstLLaMA is a culturally tailored large language model for menstrual health education that outperforms general models in accuracy, empathy, and user satisfaction.",
+        "pdfLink": "https://doi.org/10.2196/71977",
+        "audiopath": "",
+        "tags": [
+            "large language models",
+            "menstrual health education",
+            "AI for health",
+            "JMIR",
+            "India"
+        ],
+        "bibtex": "@article{adhikary2025menstllama,\n  title={MenstLLaMA: A Specialized Large Language Model for Menstrual Health Education in India},\n  author={Adhikary, Prottay Kumar and Motiyani, Isha and Oke, Gayatri and Joshi, Maithili and Pathak, Kanupriya and Singh, Salam Michael and Chakraborty, Tanmoy},\n  journal={Journal of Medical Internet Research},\n  year={2025},\n  volume={27},\n  pages={e71977},\n  doi={10.2196/71977},\n  url={https://www.jmir.org/2025/1/e71977}\n}"
+    },
+    {
+        "id": "chakraborty2025promisegenerativeai",
+        "title": "The Promise of Generative AI for Suicide Prevention in India",
+        "authors": [
+            "Tanmoy Chakraborty",
+            "Koushik Sinha Deb",
+            "Himanshu Kulkarni",
+            "Sarah Masud",
+            "Suresh Bada Math",
+            "Gayatri Oke",
+            "Rajesh Sagar",
+            "Mona Sharma"
+        ],
+        "venue": "Nature Machine Intelligence",
+        "year": "2025",
+        "type": "journal",
+        "abstract": "This correspondence highlights the potential of generative artificial intelligence (GenAI) to support suicide prevention efforts in India, where mental health challenges are compounded by a vast population, cultural diversity, and limited access to trained professionals. The authors discuss how GenAI models could assist with scalable screening, risk assessment, and culturally relevant support, while underscoring the importance of tailored datasets and contextual considerations for effective intervention. The correspondence emphasizes the promise of AI when coupled with human expertise and responsible deployment and points to the need for future development of cost-effective and culturally informed AI systems to address India’s suicide prevention landscape.",
+        "tldr": "A correspondence outlining how generative AI could play a role in suicide prevention in India by offering scalable, culturally informed support tools alongside human expertise.",
+        "pdfLink": "https://doi.org/10.1038/s42256-025-00992-1",
+        "audiopath": "",
+        "tags": [
+            "suicide prevention",
+            "generative AI",
+            "mental health",
+            "Nature Machine Intelligence"
+        ],
+        "bibtex": "@article{chakraborty2025promisegenerativeai,\n  title={The Promise of Generative AI for Suicide Prevention in India},\n  author={Chakraborty, Tanmoy and Sinha Deb, Koushik and Kulkarni, Himanshu and Masud, Sarah and Math, Suresh Bada and Oke, Gayatri and Sagar, Rajesh and Sharma, Mona},\n  journal={Nature Machine Intelligence},\n  volume={7},\n  pages={162--163},\n  year={2025},\n  doi={10.1038/s42256-025-00992-1},\n  url={https://www.nature.com/articles/s42256-025-00992-1}\n}"
+    },
+    {
+        "id": "srivastava2024knowledgeplanning",
+        "title": "Knowledge Planning in Large Language Models for Domain-Aligned Counseling Summarization",
+        "authors": [
+            "Aseem Srivastava",
+            "Smriti Joshi",
+            "Tanmoy Chakraborty",
+            "Md Shad Akhtar"
+        ],
+        "venue": "Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+        "year": "2024",
+        "type": "conference",
+        "abstract": "In mental health counseling, condensing dialogues into concise and relevant summaries (counseling notes) is crucial for clinical continuity. This paper introduces a novel planning engine, PIECE, to enhance large language models (LLMs) with domain knowledge planning, enabling them to better encapsulate dialogue structure and domain-specific knowledge. By dividing the summarization task into knowledge structuring and domain alignment phases, the proposed method improves performance over 14 baselines across multiple automatic metrics such as ROUGE and BLEURT, with expert evaluations further validating quality improvements. The results suggest that LLMs equipped with explicit planning components can generate more faithful and clinically relevant counseling summaries.",
+        "tldr": "This EMNLP 2024 paper presents a planning-based framework that augments LLMs with structured domain knowledge for more accurate and clinically aligned counseling summarization.",
+        "pdfLink": "https://aclanthology.org/2024.emnlp-main.984.pdf",
+        "audiopath": "",
+        "tags": [
+            "large language models",
+            "counseling summarization",
+            "domain knowledge",
+            "EMNLP 2024"
+        ],
+        "bibtex": "@inproceedings{srivastava2024knowledgeplanning,\n  title={Knowledge Planning in Large Language Models for Domain-Aligned Counseling Summarization},\n  author={Srivastava, Aseem and Joshi, Smriti and Chakraborty, Tanmoy and Akhtar, Md Shad},\n  booktitle={Proceedings of the 2024 Conference on Empirical Methods in Natural Language Processing},\n  pages={17775--17789},\n  year={2024},\n  organization={Association for Computational Linguistics},\n  doi={10.18653/v1/2024.emnlp-main.984},\n  url={https://aclanthology.org/2024.emnlp-main.984}\n}"
+    },
+    {
+        "id": "adhikary2024llmsummaries",
+        "title": "Exploring the Efficacy of Large Language Models in Summarizing Mental Health Counseling Sessions: A Benchmark Study",
+        "authors": [
+            "Prottay Kumar Adhikary",
+            "Aseem Srivastava",
+            "Shivani Kumar",
+            "Salam Michael Singh",
+            "Puneet Manuja",
+            "Jini K Gopinath",
+            "Vijay Krishnan",
+            "Swati Kedia Gupta",
+            "Koushik Sinha Deb",
+            "Tanmoy Chakraborty"
+        ],
+        "venue": "JMIR Mental Health",
+        "year": "2024",
+        "type": "journal",
+        "abstract": "This study evaluates the effectiveness of state-of-the-art large language models (LLMs) in summarizing counseling sessions by benchmarking their performance in aspect-based summarization. The authors introduce a novel dataset, Mental Health Counseling-Component–Guided Dialogue Summaries (MentalCLOUDS), comprising 191 sessions with component-guided summaries focused on 3 major counseling aspects. Eleven LLMs, including domain-adapted models such as MentalLlama, Mistral, and MentalBART, are evaluated using automatic metrics like ROUGE and BERTScore and qualitatively assessed by mental health experts. Results show that task-specific models outperform general LLMs on many metrics, though even the best models require further refinement for reliable clinical use.",
+        "tldr": "This benchmark study introduces MentalCLOUDS, a counseling component-guided summarization dataset, and shows that specialized LLMs excel over general ones in counseling summarization, though clinical application remains challenging. :contentReference[oaicite:0]{index=0}",
+        "pdfLink": "https://mental.jmir.org/2024/1/e57306.pdf",
+        "audiopath": "",
+        "tags": [
+            "mental health AI",
+            "counseling summarization",
+            "large language models",
+            "JMIR Mental Health"
+        ],
+        "bibtex": "@article{adhikary2024llmsummaries,\n  title={Exploring the Efficacy of Large Language Models in Summarizing Mental Health Counseling Sessions: A Benchmark Study},\n  author={Adhikary, Prottay Kumar and Srivastava, Aseem and Kumar, Shivani and Singh, Salam Michael and Manuja, Puneet and Gopinath, Jini K and Krishnan, Vijay and Gupta, Swati Kedia and Deb, Koushik Sinha and Chakraborty, Tanmoy},\n  journal={JMIR Mental Health},\n  year={2024},\n  volume={11},\n  pages={e57306},\n  doi={10.2196/57306},\n  url={https://mental.jmir.org/2024/1/e57306}\n}"
+    },
+    {
+        "id": "singh2024sukhsandesh",
+        "title": "SUKHSANDESH: An Avatar Therapeutic Question Answering Platform for Sexual Education in Rural India",
+        "authors": [
+            "Salam Michael Singh",
+            "Shubhmoy Kumar Garg",
+            "Amitesh Misra",
+            "Aaditeshwar Seth",
+            "Tanmoy Chakraborty"
+        ],
+        "venue": "Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence (IJCAI)",
+        "year": "2024",
+        "type": "conference",
+        "abstract": "Sexual education fosters emotional, mental, and social well-being, but remains stigmatized in India, especially in rural settings. SUKHSANDESH is proposed as a multi-staged AI-based question-answering platform tailored to rural India that combines information retrieval with large language models to generate safe and effective responses to sexual health queries. To mitigate harmful outputs, dataset anonymization and AI safety guardrails are incorporated. An innovative ‘avatar therapy’ component delivers AI responses via animated avatars speaking regional languages to enhance accessibility and empathy for users with limited literacy. The platform is designed for deployment with partners like Gram Vaani to address reproductive health knowledge gaps in vulnerable rural populations.",
+        "tldr": "SUKHSANDESH is an AI-driven QA platform with avatar-based delivery designed to provide culturally sensitive sexual education to rural Indian populations while minimizing harmful outputs and increasing engagement. ",
+        "pdfLink": "https://doi.org/10.24963/ijcai.2024/826",
+        "audiopath": "",
+        "tags": [
+            "AI for social good",
+            "sexual education",
+            "question answering",
+            "rural India",
+            "large language models"
+        ],
+        "bibtex": "@inproceedings{singh2024sukhsandesh,\n  title={SUKHSANDESH: An Avatar Therapeutic Question Answering Platform for Sexual Education in Rural India},\n  author={Singh, Salam Michael and Garg, Shubhmoy Kumar and Misra, Amitesh and Seth, Aaditeshwar and Chakraborty, Tanmoy},\n  booktitle={Proceedings of the Thirty-Third International Joint Conference on Artificial Intelligence (IJCAI)},\n  year={2024},\n  pages={7465--7473},\n  doi={10.24963/ijcai.2024/826},\n  url={https://www.ijcai.org/proceedings/2024/826}\n}"
+    },
+    {
+        "id": "srivastava2023responseact",
+        "title": "Response-act Guided Reinforced Dialogue Generation for Mental Health Counseling",
+        "authors": [
+            "Aseem Srivastava",
+            "Ishan Pandey",
+            "Md Shad Akhtar",
+            "Tanmoy Chakraborty"
+        ],
+        "venue": "The Web Conference (WWW)",
+        "year": "2023",
+        "type": "conference",
+        "abstract": "Virtual Mental Health Assistants (VMHAs) for counseling require understanding dialogue structure, including dialogue acts and intents, to engage clients effectively. This paper introduces READER (REsponse-Act guided reinforced Dialogue genERation) — a transformer-reinforcement-learning model that jointly predicts the next response-act and generates the corresponding response. READER uses a response-act head, a language model head, and a value head with PPO (Proximal Policy Optimization) and BERTScore-based rewards to guide the response generation toward meaningful, semantically rich counseling utterances. Evaluation on the HOPE counseling dataset shows that READER outperforms existing baselines on metrics such as METEOR, ROUGE, and BERTScore, demonstrating improved conversational quality aligned with counseling needs. :contentReference[oaicite:0]{index=0}",
+        "tldr": "READER is a reinforced dialogue generation model that improves counseling response generation by using predicted response-acts to guide semantically rich and contextually appropriate replies in mental health counseling conversations. :contentReference[oaicite:1]{index=1}",
+        "pdfLink": "https://dl.acm.org/doi/10.1145/3543507.3583380",
+        "audiopath": "",
+        "tags": [
+            "dialogue generation",
+            "mental health AI",
+            "reinforcement learning",
+            "WWWeb Conference 2023"
+        ],
+        "bibtex": "@inproceedings{srivastava2023responseact,\n  title={Response-act Guided Reinforced Dialogue Generation for Mental Health Counseling},\n  author={Srivastava, Aseem and Pandey, Ishan and Akhtar, Md Shad and Chakraborty, Tanmoy},\n  booktitle={Proceedings of The Web Conference 2023},\n  pages={1118--1129},\n  year={2023},\n  doi={10.1145/3543507.3583380},\n  url={https://dl.acm.org/doi/10.1145/3543507.3583380}\n}"
+    },
+    {
+        "id": "srivastava2022kddcounseling",
+        "title": "Counseling Summarization Using Mental Health Knowledge Guided Utterance Filtering",
+        "authors": [
+            "Aseem Srivastava",
+            "Tharun Suresh",
+            "Sarah Peregrine Lord",
+            "Md Shad Akhtar",
+            "Tanmoy Chakraborty"
+        ],
+        "venue": "Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '22)",
+        "year": "2022",
+        "type": "conference",
+        "abstract": "Summarizing psychotherapy counseling sessions is challenging due to dialogue complexity and irrelevant filler content. This paper introduces ConSum, a domain-knowledge-guided approach that filters irrelevant utterances using mental health knowledge (e.g., PHQ-9 similarity) and classifies counseling components to generate coherent summaries. The authors created a novel dataset of annotated counseling dialogues and propose a specialized evaluation metric called Mental Health Information Capture (MHIC). Results demonstrate improved summarization quality and clinical acceptability compared to baseline methods, with mental health experts validating the clinical utility of generated summaries.",
+        "tldr": "A domain-aware summarization model (ConSum) filters utterances using mental health knowledge to improve counseling dialogue summaries.",
+        "pdfLink": "https://doi.org/10.1145/3534678.3539187",
+        "audiopath": "",
+        "tags": [
+            "counseling summarization",
+            "domain knowledge",
+            "mental health",
+            "KDD 2022"
+        ],
+        "bibtex": "@inproceedings{srivastava2022kddcounseling,\n  title={Counseling Summarization Using Mental Health Knowledge Guided Utterance Filtering},\n  author={Srivastava, Aseem and Suresh, Tharun and Lord, Sarah Peregrine and Akhtar, Md Shad and Chakraborty, Tanmoy},\n  booktitle={Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining},\n  pages={3920--3930},\n  year={2022},\n  doi={10.1145/3534678.3539187},\n  url={https://doi.org/10.1145/3534678.3539187}\n}"
+    },
+    {
+        "id": "lokala2022icwsmreddit",
+        "title": "A Computational Approach to Understand Mental Health from Reddit: Knowledge-aware Multitask Learning Framework",
+        "authors": [
+            "Usha Lokala",
+            "Aseem Srivastava",
+            "Triyasha Ghosh Dastidar",
+            "Tanmoy Chakraborty",
+            "Md Shad Akhtar",
+            "Maryam Panahiazar",
+            "Amit Sheth"
+        ],
+        "venue": "Proceedings of the International AAAI Conference on Web and Social Media (ICWSM '22)",
+        "year": "2022",
+        "type": "conference",
+        "abstract": "Mental health expressions on social media often vary across individuals and demographics. This paper proposes a novel knowledge-aware, multi-task learning framework (GeM) to identify mental health symptoms and gender cues in social media posts, using a large Reddit corpus annotated with subreddit labels. The model adopts a knowledge-assisted RoBERTa-based bi-encoder architecture to capture symptom patterns and discriminates gender-specific language usage associated with mental health symptoms. Experiments show statistically significant improvements over baseline models for symptom identification and gender classification in mental health related social media content.",
+        "tldr": "This ICWSM 2022 work presents a knowledge-aware multi-task learning model for detecting mental health symptoms and gender differences in Reddit posts.",
+        "pdfLink": "https://arxiv.org/abs/2203.11856",
+        "audiopath": "",
+        "tags": [
+            "mental health analysis",
+            "social media",
+            "multi-task learning",
+            "ICWSM 2022"
+        ],
+        "bibtex": "@inproceedings{lokala2022icwsmreddit,\n  title={A Computational Approach to Understand Mental Health from Reddit: Knowledge-aware Multitask Learning Framework},\n  author={Lokala, Usha and Srivastava, Aseem and Ghosh Dastidar, Triyasha and Chakraborty, Tanmoy and Akhtar, Md Shad and Panahiazar, Maryam and Sheth, Amit},\n  booktitle={Proceedings of the International AAAI Conference on Web and Social Media},\n  year={2022},\n  url={https://arxiv.org/abs/2203.11856}\n}"
+    },
+    {
+        "id": "malhotra2022wsdm",
+        "title": "Speaker and Time-aware Joint Contextual Learning for Dialogue-act Classification in Counselling Conversations",
+        "authors": [
+            "Ganeshan Malhotra",
+            "Abdul Waheed",
+            "Aseem Srivastava",
+            "Md Shad Akhtar",
+            "Tanmoy Chakraborty"
+        ],
+        "venue": "Proceedings of the 15th ACM International Conference on Web Search and Data Mining (WSDM '22)",
+        "year": "2022",
+        "type": "conference",
+        "abstract": "Dialogue-act classification is essential for therapy-focused conversational systems to understand user intentions and responses. This work introduces a novel dataset (HOPE) with domain-specific dialogue-act labels from real counselling transcripts and presents SPARTA, a speaker- and time-aware transformer model that jointly exploits speaker identity and temporal context to improve dialogue-act classification in counselling conversations. Extensive evaluations on the HOPE dataset demonstrate superior performance of SPARTA over several baselines, highlighting its potential for building more contextually aware mental health conversational agents.",
+        "tldr": "This WSDM 2022 work proposes a speaker- and time-aware contextual model (SPARTA) for improved dialogue-act classification in counselling conversations.",
+        "pdfLink": "https://arxiv.org/abs/2111.06647",
+        "audiopath": "",
+        "tags": [
+            "dialogue-act classification",
+            "mental health dialogue",
+            "transformer models",
+            "WSDM 2022"
+        ],
+        "bibtex": "@inproceedings{malhotra2022wsdm,\n  title={Speaker and Time-aware Joint Contextual Learning for Dialogue-act Classification in Counselling Conversations},\n  author={Malhotra, Ganeshan and Waheed, Abdul and Srivastava, Aseem and Akhtar, Md Shad and Chakraborty, Tanmoy},\n  booktitle={Proceedings of the 15th ACM International Conference on Web Search and Data Mining},\n  pages={735--745},\n  year={2022},\n  url={https://arxiv.org/abs/2111.06647}\n}"
+    }
+]

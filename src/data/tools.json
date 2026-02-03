@@ -1,0 +1,79 @@
+[
+    {
+        "id": "cotherapist",
+        "title": "coTherapist",
+        "description": "coTherapist is your AI-powered virtual assistant, designed to handle clinical documentation and session analysis, freeing you to provide more effective mental healthcare.",
+        "link": "https://cotherapist.in",
+        "codeLink": "",
+        "modelLink": "",
+        "tags": [
+            "AI for Mental Healthcare Experts",
+            "Mental Health",
+            "Clinical AI"
+        ],
+        "techStack": [
+            "Flask",
+            "React",
+            "FastAPI"
+        ],
+        "image": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+    },
+    {
+        "id": "menstrual-llama",
+        "title": "Mestrual-LLaMA",
+        "description": "A specialized Large Language Model fine-tuned for providing accurate, culturally sensitive menstrual health education in India, breaking stigmas through accessible AI.",
+        "link": "",
+        "codeLink": "",
+        "modelLink": "https://huggingface.co/proadhikary/Menstrual-LLaMA-8B",
+        "tags": [
+            "LLM",
+            "Education",
+            "Social Good"
+        ],
+        "techStack": [
+            "Llama-2",
+            "HuggingFace",
+            "Streamlit"
+        ],
+        "image": "https://asset.jmir.pub/assets/653fdb5aad0267caf26733d2ac1140f3.png"
+    },
+    {
+        "id": "sparta_wsdm2022",
+        "title": "SPARTA: Speaker and Time-aware Joint Contextual Learning",
+        "description": "An NLP project focusing on dialogue-act classification in counselling conversations using speaker and time-aware contextual learning, with code and dataset released alongside the WSDM 2022 paper.",
+        "link": "",
+        "codeLink": "https://github.com/LCS2-IIITD/SPARTA_WSDM2022",
+        "modelLink": "",
+        "tags": [
+            "NLP",
+            "Dialogue Act Classification",
+            "Machine Learning",
+            "Research"
+        ],
+        "techStack": [
+            "Python",
+            "Deep Learning"
+        ],
+        "image": "https://media.istockphoto.com/id/1014903134/vector/flat-style-vector-illustration-discuss-social-network-news-chat-dialogue-speech-bubbles.jpg?s=612x612&w=0&k=20&c=14cpsgrmH1ruo2_tVJPlRIBBB7VNnpNYz8tuTl3ZHkg="
+    },
+    {
+        "id": "reader_w3c",
+        "title": "READER: Response-Act Guided Reinforced Dialogue Generation",
+        "description": "A response-act guided reinforced dialogue generation model for mental health counseling conversations, designed to improve Virtual Mental Health Assistants’ ability to generate contextually appropriate responses.",
+        "link": "",
+        "codeLink": "https://github.com/LCS2-IIITD/READER",
+        "modelLink": "",
+        "tags": [
+            "NLP",
+            "Dialogue Generation",
+            "Reinforcement Learning",
+            "Healthcare AI"
+        ],
+        "techStack": [
+            "Python",
+            "Transformer",
+            "Reinforcement Learning"
+        ],
+        "image": "https://blog.ml.cmu.edu/wp-content/uploads/2025/05/ChatGPT-Image-May-29-2025-09_56_16-AM.png"
+    }
+]

@@ -54,9 +54,9 @@ const JoinUs = () => {
         },
         {
             icon: Briefcase,
-            title: "Research Fellows",
+            title: "Research Assistant",
             audience: "Researchers",
-            description: "Lead high-impact projects and mentor junior researchers. Ideal for post-graduates looking to strenghten their research portfolio."
+            description: "Lead high-impact projects and colaborate with top researchers. Ideal for graduate & post-graduates looking to strenghten their research portfolio."
         },
         {
             icon: Stethoscope,

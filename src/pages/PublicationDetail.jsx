@@ -146,9 +146,7 @@ const PublicationDetail = () => {
 
                     <div className="flex flex-col lg:grid lg:grid-cols-12 gap-12">
                         {/* Right Content (Sidebar elements) - First on Mobile, Right Column on Desktop */}
-                        <div className={`order-1 lg:order-2 lg:col-span-4 space-y-8 ${!paper.audiopath ? 'lg:flex lg:flex-col lg:justify-center' : ''}`}>
-                            {/* audio Player Card */}
-
+                        <div className="order-1 lg:order-2 lg:col-span-4 space-y-8 lg:flex lg:flex-col lg:justify-center">
                             {/* TLDR Card */}
                             {paper.tldr && (
                                 <motion.div variants={itemVariants} className="bg-yellow-50/50 p-6 rounded-2xl border border-yellow-100/50 relative h-fit">

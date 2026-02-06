@@ -10,6 +10,7 @@ import PageTransition from './components/PageTransition';
 
 import ScrollToTop from './components/ScrollToTop';
 import PublicationDetail from './pages/PublicationDetail';
+import NotFound from './pages/NotFound';
 
 function App() {
   const location = useLocation();
@@ -25,6 +26,7 @@ function App() {
           <Route path="/publication/:id" element={<PageTransition><PublicationDetail /></PageTransition>} />
           <Route path="/tools" element={<PageTransition><Tools /></PageTransition>} />
           <Route path="/join-us" element={<PageTransition><JoinUs /></PageTransition>} />
+          <Route path="*" element={<PageTransition><NotFound /></PageTransition>} />
         </Routes>
       </AnimatePresence>
     </Layout>

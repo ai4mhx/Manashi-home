@@ -1,5 +1,29 @@
 [
     {
+        "id": "sethi2026hereforyou",
+        "title": "Here for You: A Co-Designed Mental Health Screening App for Indian University Students - A Pilot Study on Feasibility and User Engagement",
+        "authors": [
+            "Manik Inder Singh Sethi",
+            "Thirunavukarasu Manickam",
+            "Tanmoy Chakraborty",
+            "Suresh Bada Math"
+        ],
+        "venue": "JMIR Formative Research",
+        "year": "2026",
+        "type": "journal",
+        "abstract": "Mental health concerns among university students in India are rising, yet access to timely screening and support remains limited. This study presents \"Here for You,\" a co-designed mobile mental health screening application developed with direct input from Indian university students. The pilot study evaluates the app’s feasibility, usability, and user engagement in a real-world university setting. Findings indicate high acceptability, sustained engagement, and positive user feedback, suggesting that co-designed digital screening tools can serve as a viable first step in bridging mental health service gaps for young adults in low-resource contexts.",
+        "tldr": "Here for You is a co-designed mental health screening app for Indian university students that shows strong feasibility and user engagement in a pilot study.",
+        "pdfLink": "https://preprints.jmir.org/preprint/75616/accepted",
+        "tags": [
+            "mental health screening",
+            "digital health",
+            "student mental health",
+            "India",
+            "JMIR"
+        ],
+        "bibtex": "@article{sethi2026hereforyou,\n  title={Here for You: A Co-Designed Mental Health Screening App for Indian University Students - A Pilot Study on Feasibility and User Engagement},\n  author={Sethi, Manik Inder Singh and Manickam, Thirunavukarasu and Chakraborty, Tanmoy and Math, Suresh Bada},\n  journal={JMIR Formative Research},\n  year={2026},\n  url={https://preprints.jmir.org/preprint/75616/accepted}\n}"
+    },
+    {
         "id": "adhikary2026cotherapist",
         "title": "coTherapist: A Behavior-Aligned Small Language Model to Support Mental Healthcare Experts",
         "authors": [

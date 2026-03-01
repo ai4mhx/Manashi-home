@@ -223,7 +223,7 @@
         "abstract": "The quality and accessibility of menstrual health education (MHE) remain inadequate in low- and middle-income countries, including India, due to challenges such as stigma, limited resources, and gender inequality. To address these issues, the authors developed MenstLLaMA, a specialized large language model tailored for culturally sensitive and accurate menstrual health education. The model was trained on a novel domain-specific dataset (MENST) comprising over 23,820 question–answer pairs curated from medical websites, government portals, and health education resources. MenstLLaMA was evaluated against state-of-the-art general-purpose language models using automated metrics, clinical expert evaluations, and user studies, showing superior performance in BLEU and BERTScore, as well as strong ratings for empathy, accuracy, and cultural relevance. The study highlights MenstLLaMA’s potential to transform scalable menstrual health education in India.",
         "tldr": "MenstLLaMA is a culturally tailored large language model for menstrual health education that outperforms general models in accuracy, empathy, and user satisfaction.",
         "pdfLink": "https://doi.org/10.2196/71977",
-        "audiopath": "",
+        "audiopath": "/audios/mnstllama.m4a",
         "tags": [
             "large language models",
             "menstrual health education",

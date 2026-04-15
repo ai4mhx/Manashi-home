@@ -42,7 +42,7 @@
         "title": "SPARTA: Speaker and Time-aware Joint Contextual Learning",
         "description": "An NLP project focusing on dialogue-act classification in counselling conversations using speaker and time-aware contextual learning, with code and dataset released alongside the WSDM 2022 paper.",
         "link": "",
-        "codeLink": "https://github.com/LCS2-IIITD/SPARTA_WSDM2022",
+        "codeLink": "https://github.com/ai4mhx/SPARTA_WSDM2022",
         "modelLink": "",
         "tags": [
             "NLP",
@@ -61,7 +61,7 @@
         "title": "READER: Response-Act Guided Reinforced Dialogue Generation",
         "description": "A response-act guided reinforced dialogue generation model for mental health counseling conversations, designed to improve Virtual Mental Health Assistants’ ability to generate contextually appropriate responses.",
         "link": "",
-        "codeLink": "https://github.com/LCS2-IIITD/READER",
+        "codeLink": "https://github.com/ai4mhx/READER",
         "modelLink": "",
         "tags": [
             "NLP",

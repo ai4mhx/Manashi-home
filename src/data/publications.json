@@ -1,5 +1,94 @@
 [
     {
+        "id": "adhikary2026discourseguided",
+        "title": "Discourse-Guided Summarisation of Psychotherapy Dialogues via Graph-Fused Language Models",
+        "authors": [
+            "Prottay Kumar Adhikary",
+            "Ankit Mukherjee",
+            "Koushik Sinha Deb",
+            "Suruchi Singh",
+            "Salam Michael Singh",
+            "Tanmoy Chakraborty"
+        ],
+        "venue": "IEEE Journal of Biomedical and Health Informatics",
+        "year": "2026",
+        "type": "journal",
+        "abstract": "This work presents a discourse-guided approach for summarising psychotherapy dialogues using graph-fused language models. The proposed framework incorporates the structural and conversational relationships within psychotherapy sessions to generate more coherent and clinically meaningful summaries.",
+        "tldr": "A graph-fused language model that uses discourse structure to generate better summaries of psychotherapy conversations.",
+        "pdfLink": "",
+        "tags": [
+            "psychotherapy",
+            "dialogue summarisation",
+            "clinical NLP",
+            "language models",
+            "mental health",
+            "graph neural networks"
+        ],
+        "bibtex": "@article{adhikary2026discourseguided,\n  title={Discourse-Guided Summarisation of Psychotherapy Dialogues via Graph-Fused Language Models},\n  author={Adhikary, Prottay Kumar and Mukherjee, Ankit and Deb, Koushik Sinha and Singh, Suruchi and Singh, Salam Michael and Chakraborty, Tanmoy},\n  journal={IEEE Journal of Biomedical and Health Informatics},\n  year={2026}\n}"
+    },
+    {
+        "id": "dave2026artificialintelligence",
+        "title": "The Role of Artificial Intelligence in Supporting Healthcare Workers’ Mental Well-Being: A Scoping Review",
+        "authors": [
+            "Bhavyaa Dave",
+            "Sharel Singh David",
+            "Murugeswaran Mani",
+            "Lucylynn Lizarondo",
+            "Leanna Woods",
+            "Tanmoy Chakraborty",
+            "Saravana Kumar",
+            "Lauren Smith",
+            "Priya Martin"
+        ],
+        "venue": "JMIR Human Factors",
+        "year": "2026",
+        "type": "journal",
+        "abstract": "This scoping review explores the role of artificial intelligence in supporting the mental health and well-being of healthcare workers. Following Joanna Briggs Institute methodology and PRISMA-ScR guidelines, the review identified five eligible studies from 6,629 records. AI approaches including deep learning, natural language processing, machine learning, and neural networks were found or proposed to support mental health through personalised psychological support, screening, and prediction. Burnout was the most frequently addressed concern, followed by anxiety, depression, and post-traumatic stress disorder. The evidence suggests potential benefits but remains limited by small samples, heterogeneous study designs, and short follow-up periods.",
+        "tldr": "A scoping review finds that AI may support healthcare workers’ mental well-being, particularly around burnout, but the evidence base is still limited.",
+        "pdfLink": "https://preprints.jmir.org/preprint/92363",
+        "tags": [
+            "artificial intelligence",
+            "healthcare workers",
+            "mental well-being",
+            "burnout",
+            "mental health",
+            "scoping review",
+            "JMIR"
+        ],
+        "bibtex": "@article{dave2026artificialintelligence,\n  title={The Role of Artificial Intelligence in Supporting Healthcare Workers’ Mental Well-Being: A Scoping Review},\n  author={Dave, Bhavyaa and David, Sharel Singh and Mani, Murugeswaran and Lizarondo, Lucylynn and Woods, Leanna and Chakraborty, Tanmoy and Kumar, Saravana and Smith, Lauren and Martin, Priya},\n  journal={JMIR Human Factors},\n  year={2026},\n  url={https://preprints.jmir.org/preprint/92363}\n}"
+    },
+    {
+        "id": "kataria2026mases",
+        "title": "MASES: Development of a Standardized Clinician-Oriented Scale for Evaluating AI-Generated Medical Summaries",
+        "authors": [
+            "Tanmay Kataria",
+            "Prottay Kumar Adhikary",
+            "Manik Inder Singh Sethi",
+            "Sivakami Sundari",
+            "Praveen V Raj",
+            "Madan Raj",
+            "Narayana Manjunatha",
+            "Channaveerachari Naveen Kumar",
+            "Tanmoy Chakraborty",
+            "Suresh Math"
+        ],
+        "venue": "Indian Journal of Medical Research",
+        "year": "2026",
+        "type": "journal",
+        "abstract": "This study presents MASES, a standardized clinician-oriented scale developed to evaluate the quality of AI-generated medical summaries. The scale is designed to provide a structured framework for clinicians to assess AI-generated summaries and support more consistent evaluation of their clinical usefulness.",
+        "tldr": "MASES is a clinician-oriented standardized scale for evaluating the quality of AI-generated medical summaries.",
+        "pdfLink": "",
+        "tags": [
+            "medical summarisation",
+            "AI-generated summaries",
+            "clinical NLP",
+            "evaluation",
+            "healthcare AI",
+            "Indian Journal of Medical Research"
+        ],
+        "bibtex": "@article{kataria2026mases,\n  title={MASES: Development of a Standardized Clinician-Oriented Scale for Evaluating AI-Generated Medical Summaries},\n  author={Kataria, Tanmay and Adhikary, Prottay Kumar and Sethi, Manik Inder Singh and Sundari, Sivakami and Raj, Praveen V and Raj, Madan and Manjunatha, Narayana and Kumar, Channaveerachari Naveen and Chakraborty, Tanmoy and Math, Suresh},\n  journal={Indian Journal of Medical Research},\n  year={2026}\n}"
+    },
+    {
         "id": "sethi2026hereforyou",
         "title": "Here for You: A Co-Designed Mental Health Screening App for Indian University Students - A Pilot Study on Feasibility and User Engagement",
         "authors": [

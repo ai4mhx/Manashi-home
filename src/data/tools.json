@@ -1,5 +1,24 @@
 [
     {
+        "id": "manashi",
+        "title": "History Taking Chatbot",
+        "description": "Manashi is an AI-powered psychiatric history-taking assistant that interviews patients in English, Hindi and Hinglish, with a clinician-facing evaluation platform where mental health experts run sessions, review the generated summary and score the bot against a structured clinical rubric.",
+        "link": "https://chat.lcs2.in",
+        "codeLink": "",
+        "modelLink": "",
+        "tags": [
+            "AI for Mental Healthcare Experts",
+            "Mental Health",
+            "Clinical AI"
+        ],
+        "techStack": [
+            "FastAPI",
+            "SQLite",
+            "PyTorch"
+        ],
+        "image": "https://miro.medium.com/v2/resize:fit:1358/format:webp/0*hSjnsSiXK4nQl88N"
+    },
+    {
         "id": "cotherapist",
         "title": "coTherapist",
         "description": "coTherapist is your AI-powered virtual assistant, designed to handle clinical documentation and session analysis, freeing you to provide more effective mental healthcare.",

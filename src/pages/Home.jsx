@@ -54,10 +54,19 @@ const Hero = () => (
                 initial={{ opacity: 0, y: 20 }}
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ duration: 0.8, delay: 0.2, ease: "easeOut" }}
-                className="text-6xl font-black tracking-tight text-white sm:text-7xl lg:text-9xl mb-8 drop-shadow-2xl leading-[1.1]"
+                className="text-6xl font-black tracking-tight text-white sm:text-7xl lg:text-9xl mb-2 drop-shadow-2xl leading-[1.1]"
             >
                 Manashi
             </motion.h1>
+
+            <motion.p
+                initial={{ opacity: 0, y: 20 }}
+                animate={{ opacity: 1, y: 0 }}
+                transition={{ duration: 0.8, delay: 0.3, ease: "easeOut" }}
+                className="text-sm sm:text-base text-blue-200/70 mb-8 font-medium tracking-wide"
+            >
+                (in collaboration with AIIMS Delhi)
+            </motion.p>
 
             <motion.p
                 initial={{ opacity: 0, y: 20 }}
@@ -200,6 +209,7 @@ const RecentPubs = () => {
 };
 
 // Import partner logos
+/*
 import aiimsbhatLogo from '../assets/aiimsbhat.png';
 import aiimsdelLogo from '../assets/aiimsdel.png';
 import aiimskalLogo from '../assets/aiimskal.svg';
@@ -207,10 +217,12 @@ import nimhansLogo from '../assets/nimhans.png';
 import ashokaLogo from '../assets/ashoka.png';
 import jipmerLogo from '../assets/jipmer.png';
 import tmcLogo from '../assets/tmc.png';
+*/
 
 
 
 
+/*
 const Partners = () => (
     <div className="py-24 bg-white overflow-hidden border-t border-slate-100">
         <div className="max-w-7xl mx-auto px-6 text-center mb-16">
@@ -237,6 +249,7 @@ const Partners = () => (
         </div>
     </div>
 );
+*/
 
 const CTA = () => (
     <div className="bg-[#0B1120] py-32 relative overflow-hidden">
@@ -265,7 +278,7 @@ const Home = () => {
             <Hero />
             <VisionSection />
             <RecentPubs />
-            <Partners />
+            {/* <Partners /> */}
             <CTA />
         </>
     );

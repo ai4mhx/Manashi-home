@@ -15,7 +15,7 @@
         "type": "journal",
         "abstract": "This work presents a discourse-guided approach for summarising psychotherapy dialogues using graph-fused language models. The proposed framework incorporates the structural and conversational relationships within psychotherapy sessions to generate more coherent and clinically meaningful summaries.",
         "tldr": "A graph-fused language model that uses discourse structure to generate better summaries of psychotherapy conversations.",
-        "pdfLink": "",
+        "pdfLink": "https://ieeexplore.ieee.org/document/11661665",
         "tags": [
             "psychotherapy",
             "dialogue summarisation",
@@ -24,7 +24,7 @@
             "mental health",
             "graph neural networks"
         ],
-        "bibtex": "@article{adhikary2026discourseguided,\n  title={Discourse-Guided Summarisation of Psychotherapy Dialogues via Graph-Fused Language Models},\n  author={Adhikary, Prottay Kumar and Mukherjee, Ankit and Deb, Koushik Sinha and Singh, Suruchi and Singh, Salam Michael and Chakraborty, Tanmoy},\n  journal={IEEE Journal of Biomedical and Health Informatics},\n  year={2026}\n}"
+        "bibtex": "@ARTICLE{11661665, author={Adhikary, Prottay Kumar and Mukherjee, Ankit and Deb, Koushik Sinha and Singh, Suruchi and Singh, Salam Michael and Chakraborty, Tanmoy}, journal={IEEE Journal of Biomedical and Health Informatics}, title={Discourse-Guided Summarisation of Psychotherapy Dialogues via Graph-Fused Language Models}, year={2026}, volume={}, number={}, pages={1-10}, keywords={Conversational AI;Psychotherapy;Large language models;Mental health}, doi={10.1109/JBHI.2026.3726138}}"
     },
     {
         "id": "dave2026artificialintelligence",

@@ -13,7 +13,7 @@
         "venue": "IEEE Journal of Biomedical and Health Informatics",
         "year": "2026",
         "type": "journal",
-        "abstract": "This work presents a discourse-guided approach for summarising psychotherapy dialogues using graph-fused language models. The proposed framework incorporates the structural and conversational relationships within psychotherapy sessions to generate more coherent and clinically meaningful summaries.",
+        "abstract": "Psychotherapy summarisation poses unique challenges due to the emotional nuance, relational complexity, and non-linear discourse of therapeutic dialogues. Existing large language models (LLMs), even when fine-tuned, often fail to capture these structures, leading to clinically incomplete or incoherent summaries. In this work, we propose TheraFuse, a clinically grounded summarisation framework that adapts discourse-level relational graphs and LLaMA fusion to the psychotherapy domain. Our method first parses therapy dialogues into discourse graphs and encodes them using Relational Graph Convolutional Networks. These representations are then injected into LLaMA's hidden layers to guide generation. Experiments on a benchmark counselling dataset (iHOPE), following a benchmark counselling summary template (iCARE), show that TheraFuse significantly outperforms both zero-shot and fine-tuned baselines in both surface metrics (BLEU, ROUGE) and semantic alignment (BERTScore, InfoLM); these gains are statistically significant under paired t-tests with Holm–Bonferroni correction (p<0.05, Section  VI-A.2). Human evaluation by mental health professionals confirms the improved coherence, structure, and clinical usefulness of the generated summaries.",
         "tldr": "A graph-fused language model that uses discourse structure to generate better summaries of psychotherapy conversations.",
         "pdfLink": "https://ieeexplore.ieee.org/document/11661665",
         "tags": [
@@ -28,22 +28,22 @@
     },
     {
         "id": "dave2026artificialintelligence",
-        "title": "The Role of Artificial Intelligence in Supporting Healthcare Workers’ Mental Well-Being: A Scoping Review",
+        "title": "The role of Artificial Intelligence in supporting Healthcare Workers' Mental Well-being: A scoping review.",
         "authors": [
-            "Bhavyaa Dave",
+            "Miss Bhavyaa Dave",
             "Sharel Singh David",
-            "Murugeswaran Mani",
-            "Lucylynn Lizarondo",
-            "Leanna Woods",
-            "Tanmoy Chakraborty",
-            "Saravana Kumar",
-            "Lauren Smith",
-            "Priya Martin"
+            "Mr Murugeswaran Mani",
+            "Dr Lucylynn Lizarondo",
+            "Dr Leanna Woods",
+            "Associate Professor Tanmoy Chakraborty",
+            "Professor Saravana Kumar",
+            "Mrs. Lauren Smith",
+            "Associate Professor Priya Martin"
         ],
         "venue": "JMIR Human Factors",
         "year": "2026",
         "type": "journal",
-        "abstract": "This scoping review explores the role of artificial intelligence in supporting the mental health and well-being of healthcare workers. Following Joanna Briggs Institute methodology and PRISMA-ScR guidelines, the review identified five eligible studies from 6,629 records. AI approaches including deep learning, natural language processing, machine learning, and neural networks were found or proposed to support mental health through personalised psychological support, screening, and prediction. Burnout was the most frequently addressed concern, followed by anxiety, depression, and post-traumatic stress disorder. The evidence suggests potential benefits but remains limited by small samples, heterogeneous study designs, and short follow-up periods.",
+        "abstract": "Background:\n\nArtificial intelligence (AI) is poised to transform healthcare practice. Improving and supporting healthcare workers’ experience has become a priority for strengthening the healthcare delivery system. Mental health challenges faced by healthcare workers have gained recognition over the last decade, underscoring the need for continued exploration and action.\n\nObjective:\n\nThis scoping review aimed to explore the role of AI in enhancing or supporting the mental health and well-being of healthcare workers.\n\nMethods:\n\nThis scoping review was conducted following the Joanna Briggs Institute methodology and reported using the Preferred Reporting Items for Systematic Reviews and Meta-Analyses extension for Scoping Reviews. The review included studies that directly addressed healthcare workers’ mental health and well-being and excluded those focusing on the indirect application of AI, such as through workflow optimisation. Academic and grey literature were searched with no date limits. A two-stage dual screening process was undertaken through Covidence. A customised data extraction tool was developed to extract data from the included studies, which were summarised descriptively.\n\nResults:\n\nOf 6,629 records identified, five studies met eligibility criteria. AI tools, such as deep learning, Natural Language Processing, Machine Learning, and Neural Networks, appear or are proposed to support mental health outcomes through personalised psychological support, screening and prediction of mental health issues. Burnout was the primary mental health issue, followed by anxiety, depression, and post-traumatic stress disorder. Nurses were the most prominently studied group. Evidence from empirical studies showed reductions in burnout and stress, while chatbot-based interventions demonstrated potential, but were constrained by small samples, heterogeneous designs, and short follow-up periods The conceptual framework outlined an AI-human model designed to deliver empathy-driven psychological support. Available empirical evidence remains limited in scope, and generalisability.\n\nConclusions:\n\nCurrent research suggests that AI may have the potential to address mental health concerns among healthcare workers, particularly burnout, but the evidence base remains limited and largely conceptual. Robust longitudinal studies and supportive policy frameworks are needed to assess effectiveness, guide responsible implementation, and enable meaningful integration of AI-driven mental health support within healthcare systems.",
         "tldr": "A scoping review finds that AI may support healthcare workers’ mental well-being, particularly around burnout, but the evidence base is still limited.",
         "pdfLink": "https://preprints.jmir.org/preprint/92363",
         "tags": [
@@ -55,7 +55,7 @@
             "scoping review",
             "JMIR"
         ],
-        "bibtex": "@article{dave2026artificialintelligence,\n  title={The Role of Artificial Intelligence in Supporting Healthcare Workers’ Mental Well-Being: A Scoping Review},\n  author={Dave, Bhavyaa and David, Sharel Singh and Mani, Murugeswaran and Lizarondo, Lucylynn and Woods, Leanna and Chakraborty, Tanmoy and Kumar, Saravana and Smith, Lauren and Martin, Priya},\n  journal={JMIR Human Factors},\n  year={2026},\n  url={https://preprints.jmir.org/preprint/92363}\n}"
+        "bibtex": "@ARTICLE{Dave2026-uq,\n  title     = \"The role of Artificial Intelligence in supporting Healthcare Workers' Mental Well-being: A scoping review. (Preprint)\",\n  author    = \"Dave, Miss Bhavyaa and David, Sharel Singh and Mani, Mr Murugeswaran and Lizarondo, Dr Lucylynn and Woods, Dr Leanna and Chakraborty, Associate Professor Tanmoy and Kumar, Professor Saravana and Smith, Mrs Lauren and Martin, Associate Professor Priya\",\n  journal   = \"JMIR Hum. Factors\",\n  publisher = \"JMIR Publications Inc.\",\n  month     =  jan,\n  year      =  2026,\n  language  = \"en\"\n}"
     },
     {
         "id": "kataria2026mases",

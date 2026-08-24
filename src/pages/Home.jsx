@@ -65,7 +65,7 @@ const Hero = () => (
                 transition={{ duration: 0.8, delay: 0.3, ease: "easeOut" }}
                 className="text-sm sm:text-base text-blue-200/70 mb-8 font-medium tracking-wide"
             >
-                (in collaboration with AIIMS Delhi)
+                An initiative by AIIIMS Delhi and IIT Delhi
             </motion.p>
 
             <motion.p
